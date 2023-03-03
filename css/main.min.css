@@ -71,7 +71,7 @@ img {
 }
 
 a {
-  color: #26d9ac;
+  color: #29B6F6;
   text-decoration: none;
   outline: 0;
   transition: .3s ease-in-out
@@ -174,7 +174,7 @@ textarea.form-control:focus {
   left: 50%;
   right: 50%;
   bottom: 0;
-  background: #26d9ac;
+  background: #29B6F6;
   height: 2px;
   transition: .3s ease-in-out
 }
@@ -278,7 +278,7 @@ textarea.form-control:focus {
 .block-title h3 span,
 .form-group-with-icon.form-group-focus i,
 .site-title span {
-  color: #26d9ac
+  color: #29B6F6
 }
 
 .no-padding,
@@ -326,7 +326,7 @@ input[type=submit] {
 button,
 input[type=button],
 input[type=submit] {
-  background-color: #26d9ac;
+  background-color: #29B6F6;
   color: #fff;
   border: 0;
   box-shadow: 0 1px 1px rgba(0, 0, 0, .1), 0 2px 4px rgba(0, 0, 0, .3)
@@ -349,11 +349,11 @@ input[type=submit]:hover {
 }
 
 .border-top {
-  border-top: 2px solid #26d9ac
+  border-top: 2px solid #29B6F6
 }
 
 .border-bottom {
-  border-bottom: 2px solid #26d9ac
+  border-bottom: 2px solid #29B6F6
 }
 
 body>footer {
@@ -425,7 +425,7 @@ body>footer .copyrights {
 }
 
 .preloader-spinner:after {
-  border-color: #26d9ac transparent transparent;
+  border-color: #29B6F6 transparent transparent;
   -webkit-animation: .82s cubic-bezier(.6, .3, .3, .6) infinite rotation;
   animation: .82s cubic-bezier(.6, .3, .3, .6) infinite rotation
 }
@@ -673,7 +673,7 @@ body>footer .copyrights {
   width: 0;
   height: 2px;
   margin: 0 auto;
-  background-color: #26d9ac;
+  background-color: #29B6F6;
   -webkit-transition: .15s ease-in-out;
   -moz-transition: .15s ease-in-out;
   -o-transition: .15s ease-in-out;
@@ -752,7 +752,7 @@ body>footer .copyrights {
 }
 
 .custom-page-content .page-header.color-1 {
-  background-color: #26d9ac;
+  background-color: #29B6F6;
   background-image: url(../images/sp_main_bg.png);
   background-size: cover;
   -webkit-background-size: cover
@@ -772,7 +772,7 @@ body>footer .copyrights {
 
 .start-page-content .page-header {
   position: relative;
-  background-color: #26d9ac;
+  background-color: #29B6F6;
   padding: 50px;
   margin-bottom: 25px;
   background-image: url(../images/sp_main_bg.png);
@@ -898,7 +898,7 @@ body>footer .copyrights {
   margin-left: 20px;
   margin-bottom: 20px;
   background-color: #fff;
-  border-left: 2px solid #26d9ac;
+  border-left: 2px solid #29B6F6;
   box-shadow: 0 0 3px 0 rgba(0, 0, 0, .2)
 }
 
@@ -921,7 +921,7 @@ blockquote p:last-child {
   height: 12px;
   top: 20px;
   left: -29px;
-  border: 2px solid #26d9ac;
+  border: 2px solid #29B6F6;
   z-index: 2
 }
 
@@ -929,7 +929,7 @@ blockquote p:last-child {
   content: '';
   display: inline-block;
   position: absolute;
-  background-color: #26d9ac;
+  background-color: #29B6F6;
   border-radius: 10px;
   width: 29px;
   height: 2px;
@@ -954,7 +954,7 @@ blockquote p:last-child {
 }
 
 .timeline-item .item-period {
-  color: #26d9ac
+  color: #29B6F6
 }
 
 .timeline-item .item-small {
@@ -983,7 +983,7 @@ blockquote p:last-child {
 }
 
 .skill-percentage {
-  background-color: #26d9ac;
+  background-color: #29B6F6;
   height: 10px;
   padding: 0
 }
@@ -1077,7 +1077,7 @@ blockquote p:last-child {
   font-size: 48px;
   line-height: 80px;
   color: #fff;
-  background-color: #26d9ac;
+  background-color: #29B6F6;
   width: 80px;
   height: 80px;
   border-radius: 100px;
@@ -1129,7 +1129,7 @@ blockquote p:last-child {
   font-weight: 400;
   display: block;
   margin: 10px 0;
-  color: #26d9ac
+  color: #29B6F6
 }
 
 .testimonials {
@@ -1175,7 +1175,7 @@ blockquote p:last-child {
   padding: 2.2em 1.2em 1.5em;
   font-style: italic;
   border: 1px solid #e0e0e0;
-  border-top: 2px solid #26d9ac;
+  border-top: 2px solid #29B6F6;
   width: 100%;
   position: relative;
   margin: 0;
@@ -1246,7 +1246,7 @@ blockquote p:last-child {
   content: '';
   height: 2px;
   margin-top: 0;
-  background-color: #26d9ac;
+  background-color: #29B6F6;
   position: absolute;
   left: 0;
   bottom: -3px;
@@ -1316,7 +1316,7 @@ blockquote p:last-child {
 
 .portfolio-filters li.active a,
 .portfolio-filters li.active a:hover {
-  background-color: #26d9ac;
+  background-color: #29B6F6;
   color: #fff
 }
 
@@ -1364,7 +1364,7 @@ blockquote p:last-child {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #26d9ac;
+  background-color: #29B6F6;
   opacity: .8;
   z-index: 0
 }
@@ -1480,7 +1480,7 @@ blockquote p:last-child {
 
 .blog-card .post-date span {
   display: block;
-  color: #26d9ac;
+  color: #29B6F6;
   line-height: 1;
   font-size: 12px;
   margin: 0
@@ -1560,7 +1560,7 @@ blockquote p:last-child {
 .testimonials.owl-carousel .owl-nav .owl-next:hover,
 .testimonials.owl-carousel .owl-nav .owl-prev:hover {
   color: #fff;
-  background-color: #26d9ac
+  background-color: #29B6F6
 }
 
 .post-meta .item {
@@ -1605,7 +1605,7 @@ blockquote p:last-child {
 .contact-info-block i {
   position: relative;
   font-size: 18px;
-  color: #26d9ac;
+  color: #29B6F6;
   text-align: center;
   line-height: 36px
 }
@@ -1829,7 +1829,7 @@ blockquote p:last-child {
 }
 
 .project-general-info .fa {
-  color: #26d9ac;
+  color: #29B6F6;
   margin-right: 5px
 }
 
@@ -1916,7 +1916,7 @@ blockquote p:last-child {
 
 blockquote {
   margin: 20px 0;
-  border-left: 3px solid #26d9ac;
+  border-left: 3px solid #29B6F6;
   font-style: italic
 }
 
@@ -2012,7 +2012,7 @@ blockquote small {
 
   .header,
   .mobile-header {
-    background-color: #26d9ac;
+    background-color: #29B6F6;
     right: 0
   }
 
